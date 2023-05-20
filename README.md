@@ -14,7 +14,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://ugaka.github.io" target="_blank"><img src="examples/previeweb.gif">
+    <a href="https://ugaka.github.io" target="_blank"><img src="examples/preview1.gif">
   </a>
   </kbd>
 </p>
