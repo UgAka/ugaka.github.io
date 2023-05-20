@@ -14,7 +14,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://UgAka.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://ugaka.github.io" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
@@ -69,5 +69,3 @@ To view a live example, **[click here](https://ugaka.github.io/)**
 
 - 🔃 Create a new pull request.
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
