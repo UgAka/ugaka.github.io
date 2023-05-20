@@ -2,13 +2,13 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://UgAka.github.io
+> https://ugaka.github.io
 
-![GitHub stars](https://img.shields.io/github/stars/UgAka/UgAka.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/UgAka/UgAka.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/UgAka/UgAka.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://UgAka.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/UgAka/)
+![GitHub stars](https://img.shields.io/github/stars/UgAka/ugaka.github.io) 
+![GitHub forks](https://img.shields.io/github/forks/UgAka/ugaka.github.io)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/UgAka/ugaka.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://ugaka.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/ugaka1204/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
@@ -44,7 +44,7 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://UgAka.github.io/)**
+To view a live example, **[click here](https://ugaka.github.io/)**
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
