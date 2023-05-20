@@ -1,6 +1,6 @@
 # ugaka.github.io
 # Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+
 
 > https://ugaka.github.io
 
